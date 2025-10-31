@@ -1,6 +1,6 @@
 unique_name: Store Quantity Sold
 object_type: metric
-label: Store Quantity Sold
+label: Store Quantity Sold - DG
 description: store_sales.ss_quantity_sum
 calculation_method: sum
 unrelated_dimensions_handling: empty

@@ -142,6 +142,8 @@ metrics:
     folder: Total Sales Measures
   - unique_name: Web Sales Increase
     folder: Web Sales Measures
+  - unique_name: m_web_sales_WS_SALES_PRICE_sum
+    folder: DG
 relationships:
   - unique_name: web_sales_Fulfilling_Warehouse
     from:
